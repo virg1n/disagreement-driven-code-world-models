@@ -1,0 +1,8 @@
+# torch==2.5.1 (cu121) is installed separately, see scripts/setup_env.sh
+vllm==0.6.6.post1
+transformers==4.47.1
+requests
+numpy
+matplotlib
+huggingface_hub
+# mara-autumn-cpp (Autumn.cpp bindings): install the wheel from the GitHub release, see scripts/setup_env.sh

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+third_party/
+# unpacked raw results (the archive in data/ is tracked)
+results/*
+!results/.gitkeep
+*.tmp
+*.err
+.hf_token
